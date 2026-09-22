@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T13:00:00+08:00",
+  "updatedAt": "2026-09-22T22:00:00+08:00",
   "exchanges": [
     {
       "id": "binance",
@@ -22,9 +22,9 @@
     },
     {
       "id": "bitget",
-      "enabled": false,
+      "enabled": true,
       "sort": 40,
-      "referralURL": ""
+      "referralURL": "https://share.glassgs.com/u/4N9G00JV?clacCode=947FQZ14"
     },
     {
       "id": "gateio",
