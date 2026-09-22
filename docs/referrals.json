@@ -4,15 +4,15 @@
   "exchanges": [
     {
       "id": "binance",
-      "enabled": false,
+      "enabled": true,
       "sort": 10,
-      "referralURL": ""
+      "referralURL": "https://www.bsmkweb.cc/register?ref=FIGHTTRADE"
     },
     {
       "id": "okx",
-      "enabled": false,
+      "enabled": true,
       "sort": 20,
-      "referralURL": ""
+      "referralURL": "https://www.mitxcqvwnhj.com/join/6908858"
     },
     {
       "id": "bybit",
@@ -28,9 +28,9 @@
     },
     {
       "id": "gateio",
-      "enabled": false,
+      "enabled": true,
       "sort": 50,
-      "referralURL": ""
+      "referralURL": "https://www.gatesites.cc/share/vlusul9fbw"
     },
     {
       "id": "coinbase",
