@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-22T13:00:00+08:00",
+  "exchanges": [
+    {
+      "id": "binance",
+      "enabled": false,
+      "sort": 10,
+      "referralURL": ""
+    },
+    {
+      "id": "okx",
+      "enabled": false,
+      "sort": 20,
+      "referralURL": ""
+    },
+    {
+      "id": "bybit",
+      "enabled": false,
+      "sort": 30,
+      "referralURL": ""
+    },
+    {
+      "id": "bitget",
+      "enabled": false,
+      "sort": 40,
+      "referralURL": ""
+    },
+    {
+      "id": "gateio",
+      "enabled": false,
+      "sort": 50,
+      "referralURL": ""
+    },
+    {
+      "id": "coinbase",
+      "enabled": false,
+      "sort": 60,
+      "referralURL": ""
+    }
+  ]
+}
